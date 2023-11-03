@@ -3,7 +3,7 @@
                           é um arq. separado de "Rotas de Autenticação", pra evitar que o usuário acesse elas enquanto não estiver logado */
 
 
-import { Routes, Route } from "react-router-dom"
+import { Routes, Route, Navigate } from "react-router-dom"
 
 import { Home } from '../pages/Home'
 import { Profile } from '../pages/Profile'
@@ -19,6 +19,8 @@ export function AppRoutes() {
       <Route path="/new" element={<New />} />
       <Route path="/profile" element={<Profile />} />
       <Route path="/details/:id" element={<Details />} />
+
+      <Route path="*" element={<Navigate to="/" />} />
     </Routes>
   )
 }
