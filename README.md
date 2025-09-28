@@ -1,6 +1,6 @@
 # Exercício - Deploy do Front-end
 
-Exercício #1 da Semana #11. Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
+Exercício #1 da Semana #11. Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).<br>
 É o Frontend da aplicação "Rocket Notes", hospedada em [Rocket Notes](https://rocketnotesleodebat.netlify.app/).
 
 Este exercício é focado no processo de deploy da aplicação,
@@ -12,7 +12,7 @@ introduzindo os conceitos de ambientes de aplicação web e serviços de hospeda
 
 # Exercise - Front-end Deploy
 
-Exercise #1 from Week #11. Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
+Exercise #1 from Week #11. Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).<br>
 It's the Frontend of the "Rocket Notes" application, hosted on [Rocket Notes](https://rocketnotesleodebat.netlify.app/).
 
 This exercise is focused on the process of deploying the application,
