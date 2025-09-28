@@ -4,7 +4,7 @@ Exercício #1 da Semana #11. Parte do curso "Explorer", da plataforma de ensino 
 É o Frontend da aplicação "Rocket Notes", hospedada em [Rocket Notes](https://rocketnotesleodebat.netlify.app/).
 
 Este exercício é focado no processo de deploy da aplicação,
-introduzindo os conceitos de ambientes de aplicação web e serviços de hospedagem web.
+introduzindo os conceitos de ambientes de aplicação web e serviços de hospedagem web.o
 
 <br>
   <img width="406" height="235" alt="Mockup - Desktop" src="https://github.com/user-attachments/assets/a2818485-f697-4e08-8261-6a73135e6089" />
